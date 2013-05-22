@@ -208,6 +208,7 @@ DIRTY_ASN1_DISSECTOR_SRC = \
 # Dissectors without warnings.
 #
 DISSECTOR_SRC = \
+	packet-jdsu-frp.c	\
 	packet-2dparityfec.c	\
 	packet-3com-njack.c	\
 	packet-3com-xns.c	\
